@@ -1,7 +1,8 @@
 pebblepulse
 ===========
-
 Pebble pulse rate calculator app
+
+![](images/header.png)
 
 ##Instructions for use
 
@@ -12,8 +13,6 @@ Pebble pulse rate calculator app
 5. The patient's pulse is displayed on the screen
 
 ##Screenshots
-![](screenshots/1.png)
-
-![](screenshots/2.png)
-
-![](screenshots/3.png)
+![](screenshots/1.png) 
+![](screenshots/2.png) 
+![](screenshots/3.png) 
