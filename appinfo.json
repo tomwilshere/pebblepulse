@@ -1,0 +1,17 @@
+{
+  "uuid": "14a39f90-7384-4f80-b97d-6fef0a1a474a",
+  "shortName": "PebblePulse",
+  "longName": "PebblePulse",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
