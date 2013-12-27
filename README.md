@@ -10,3 +10,8 @@ Pebble pulse rate calculator app
 3. Count 10 beats
 4. Press select again
 5. The patient's pulse is displayed on the screen
+
+##Screenshots
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
